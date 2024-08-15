@@ -1,6 +1,6 @@
 # StudyShore
 
-## Project for UCSD's DiamondHacks and won 3rd Place Overall
+## Project for UCSD's DiamondHacks - 3rd Place Overall
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/YashPatki02/StudyShore)
 
